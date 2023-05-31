@@ -1,0 +1,6 @@
+var number=25;
+var student={
+name:"shiva",
+email:"sivasanaka2305@gmail.com"
+};
+document.write(student.name)
